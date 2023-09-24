@@ -36,7 +36,8 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 
 `COLLECTION_PRODUCT`
 
-
+## Stream importante
+Após esses passos chame a seguinte rota: localhost:3000/product/import
 ## Referência
 
  - challenge by coodesh: [Coodesh](https://coodesh.com/)
