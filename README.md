@@ -17,7 +17,7 @@ O projeto visa otimizar a importação diária de grandes volumes de dados em fo
 Faça o clone do projeto
 
 ```bash
-  cd codesh-challenge
+  cd challenge-backend-coodesh
   npm install
   npm run dev
 ```
