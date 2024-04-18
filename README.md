@@ -42,4 +42,4 @@ Após esses passos chame a seguinte rota: localhost:3000/product/import e observ
 
  - challenge by coodesh: [Coodesh](https://coodesh.com/)
 
- - link apresentação: https://www.loom.com/embed/3293fccf12b442c4953136abdeab3a63
+ - link apresentação:
